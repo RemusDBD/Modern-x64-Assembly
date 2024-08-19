@@ -1,5 +1,3 @@
-[Video](https://www.youtube.com/watch?v=rxsBghsrvpI)
+#Beginning Assembly Programming
 
-Beginning Assembly Programming
-
-In this vid, we'll look at few general aspects of ASM, before diving in and coding a few simple examples.
+In this [Video](https://www.youtube.com/watch?v=rxsBghsrvpI), we'll look at few general aspects of ASM, before diving in and coding a few simple examples.
