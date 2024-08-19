@@ -1,6 +1,6 @@
 <img src="/img/background.jpg" width="600" height="300"></img>
 # Modern-x64-Assembly
-Self-made source code for Modern x64 Assembly videos by Creel on YouTube. 
+Self-made source code for [Modern x64 Assembly videos by Creel](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA) on YouTube. 
 
 - [1-Beginning Assembly Programming](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/1-Beginning%20Assembly%20Programming/README.md)
 - [2-16 Bit Registers](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/2-16%20Bit%20Registers/Readme.MD)
