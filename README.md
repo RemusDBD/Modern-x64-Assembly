@@ -1,6 +1,13 @@
 <img src="/img/background.jpg" width="600" height="300"></img>
 # Modern-x64-Assembly
-Self-made source code for [Modern x64 Assembly videos by Creel](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA) on YouTube. 
+Self-made source code for [Modern x64 Assembly videos by Creel](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA) on YouTube. <br>
+
+I believe on hands-on practicing over just pure watching the video.<br>
+You may find it useful to follow with the instuctor and my scripts.<br>
+You may need to use Visual Studio and follow along the steps that the instuctors provided on video [1 : Beginning Assembly Programming](https://www.youtube.com/watch?v=rxsBghsrvpI)<br>
+Remember to turn on MASM first, then input asm.asm, lastly the main.cpp.<Br>
+<Br>
+✓ Environemnt tested on Visual Studio 17.7.3<br>
 
 - [1-Beginning Assembly Programming](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/1-Beginning%20Assembly%20Programming/README.md)
 - [2-16 Bit Registers](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/2-16%20Bit%20Registers/Readme.MD)
@@ -22,9 +29,4 @@ TO DO LIST:
 - 16
 
 
-I believe on hands-on practicing over just pure watching the video.<br>
-You may find it useful to follow with the instuctor and my scripts.<br>
-You may need to use Visual Studio and follow along the steps that the instuctors provided on video [1 : Beginning Assembly Programming](https://www.youtube.com/watch?v=rxsBghsrvpI)<br>
-Remember to turn on MASM first, then input asm.asm, lastly the main.cpp.<Br>
-<Br>
-✓ Environemnt tested on Visual Studio 17.7.3<br>
+
