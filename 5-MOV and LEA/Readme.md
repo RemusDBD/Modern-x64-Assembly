@@ -1,0 +1,5 @@
+This [video](https://www.youtube.com/watch?v=mKcWIA1vKOw) is about the MOV and LEA instructions. MOV is the most commonly used instruction of all (that has a lot to do with the fact that x86 uses destructive instructions).
+
+MOV is used to copy data from the source operand into to the destination. When the source operand is RAM (a variable for example), the MOV instruction moves the data at the address into the destination. So if you have a variable at the address 25, with the value 7, MOV will move the value 7 into the destination.
+
+The LEA instruction is used to load a pointer into a register. It is actually an arithmetic instruction, and does not read RAM at all. When a memory operand is used as the source, the instruction loads the address of the operand, not the value. So the instruction is useful for loading an address into a register, effectively creating a pointer to the address: "LEA RCX, someVariable" makes RCX point to the address of the someVariable variable. So if you have a variable at the address 25, with the value 7, the LEA instruction will move 25 into the destination, not the 7 like MOV.
