@@ -4,7 +4,7 @@ Self-made source code for [Modern x64 Assembly videos by Creel](https://www.yout
 
 I believe on hands-on practicing over just pure watching the video.<br>
 You may find it useful to follow with the instuctor and my scripts.<br>
-You may need to use Visual Studio and follow along the steps that the instuctors provided on video [1 : Beginning Assembly Programming](https://www.youtube.com/watch?v=rxsBghsrvpI)<br>
+You may need to use Visual Studio and follow along the steps that the instuctors provided on the [first video] (https://www.youtube.com/watch?v=rxsBghsrvpI)<br>
 Remember to turn on MASM first, then input asm.asm, lastly the main.cpp.<Br>
 <Br>
 ✓ Environemnt tested on Visual Studio 17.7.3<br>
