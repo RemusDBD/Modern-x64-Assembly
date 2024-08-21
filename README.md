@@ -17,11 +17,10 @@ Remember to turn on MASM first, then input asm.asm, lastly the main.cpp.<Br>
 - [6-ADD SUB INC and DEC](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/6-ADD%20SUB%20INC%20and%20DEC/Readme.md)
 - [7-Boolean Logical Instructions in x86 x64 8086 ASM](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/7-Boolean%20Logical%20Instructions%20in%20x86%20x64%208086%20ASM/Readme.md)
 - [8-Shift Rotate and Bit Manipulation Instructions/](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/8-Shift%20Rotate%20and%20Bit%20Manipulation%20Instructions/Readme.md)
-
+- [9-The rFlags Register (Flags, pushfq, popfq, pushf, popf)](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/9-The%20rFlags%20Register%20(Flags%2C%20pushfq%2C%20popfq%2C%20pushf%2C%20popf)/Readme.md)
+- [10-Conditional Jumps, Moves and Set Byte](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/10-Conditional%20Jumps%2C%20Moves%20and%20Set%20Byte/Readme.md)
+- [11-Division with the DIV and IDIV Instructions](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/11-Division%20with%20the%20DIV%20and%20IDIV%20Instructions/Readme.md)
 TO DO LIST:
-- 9
-- 10
-- 11
 - 12
 - 13
 - 14
