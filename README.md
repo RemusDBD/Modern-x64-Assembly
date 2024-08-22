@@ -20,12 +20,12 @@ Remember to turn on MASM first, then input asm.asm, lastly the main.cpp.<Br>
 - [9-The rFlags Register (Flags, pushfq, popfq, pushf, popf)](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/9-The%20rFlags%20Register%20(Flags%2C%20pushfq%2C%20popfq%2C%20pushf%2C%20popf)/Readme.md)
 - [10-Conditional Jumps, Moves and Set Byte](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/10-Conditional%20Jumps%2C%20Moves%20and%20Set%20Byte/Readme.md)
 - [11-Division with the DIV and IDIV Instructions](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/11-Division%20with%20the%20DIV%20and%20IDIV%20Instructions/Readme.md)
+- [12-C Calling Convention (Passing Parameters)](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/12-C%20Calling%20Convention%20(Passing%20Parameters)/Readme.md)
+- [13-Control Structures (If statements, do while, while and for loops)](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/13-Control%20Structures%20(If%20statements%2C%20do%20while%2C%20while%20and%20for%20loops)/Readme.md)
+- [14-Structures in ASM and C++](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/14-Structures%20in%20ASM%20and%20C%2B%2B/Readme.md)
   <BR>
   <bR>
 TO DO LIST:
-- 12
-- 13
-- 14
 - 15
 - 16
 
