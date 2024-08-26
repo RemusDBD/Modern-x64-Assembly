@@ -23,11 +23,5 @@ Remember to turn on MASM first, then input asm.asm, lastly the main.cpp.<Br>
 - [12-C Calling Convention (Passing Parameters)](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/12-C%20Calling%20Convention%20(Passing%20Parameters)/Readme.md)
 - [13-Control Structures (If statements, do while, while and for loops)](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/13-Control%20Structures%20(If%20statements%2C%20do%20while%2C%20while%20and%20for%20loops)/Readme.md)
 - [14-Structures in ASM and C++](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/14-Structures%20in%20ASM%20and%20C%2B%2B/Readme.md)
-  <BR>
-  <bR>
-TO DO LIST:
-- 15
-- 16
-
-
-
+- [15-Introduction to SIMD](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/15-Introduction%20to%20SIMD/Readme.md)
+- [16-Basic SIMD Floating Point Arithmetic](https://github.com/RemusDBD/Modern-x64-Assembly/blob/main/16-Basic%20SIMD%20Floating%20Point%20Arithmetic/Readme.md)
